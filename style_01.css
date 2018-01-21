@@ -1,0 +1,52 @@
+
+.red{
+  color:red;
+  background-color:pink;
+}
+.orange{
+  color:orange;
+  background-color:yellow;
+}
+.yell{
+  color:yellow;
+  background-color: blue;
+}
+.green{
+  color:green;
+  background-color: pink;
+}
+.blue{
+  color:blue;
+  background-color: yellow;
+}
+.vi{
+  color:purple;
+  background-color: LimeGreen;
+}
+h1{
+  text-align: center;
+  background-color: pink;
+}
+.song{
+  float: right;
+  margin: 20px;
+  text-align: center;
+  background-color: white;
+  width:600px;
+  height: 800px;
+  -moz-border-radius:200px/400px;
+  -webkit-border-radius:200px/400px;
+  border-radius:200px/400px;
+  font-family: "Bodoni MT"
+}
+body{
+  background-color: pink;
+}
+.circle{
+width:200px;
+height: 200px;
+-moz-border-radius:100px;
+-webkit-border-radius:100px;
+border-radius:100px;
+
+}
